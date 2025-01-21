@@ -1,6 +1,3 @@
-
-### Mengenal Jendela 10/40: Kawasan Strategis untuk Misi Dunia
-
 Istilah "Jendela 10/40" mengacu pada wilayah geografis di dunia yang terletak antara 10 dan 40 derajat lintang utara, mencakup sebagian besar Afrika Utara, Timur Tengah, dan Asia. Wilayah ini pertama kali dikenalkan oleh seorang misionaris bernama Luis Bush pada tahun 1990-an sebagai kawasan yang sangat strategis namun penuh tantangan dalam misi Kristen.
 
 #### Apa Itu Jendela 10/40?
