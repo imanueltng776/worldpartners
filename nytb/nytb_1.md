@@ -2,7 +2,6 @@
 #### **NYTB NO. 1 - NAMA YESUS TERUS BERSUARA**
 
 1.
-<br>
 Nama Yesus t'rus bersuara abadi tak berhenti 
 <br>
 Nama Yesus beri sentosa sukacita tak terp'ri
@@ -20,8 +19,7 @@ ku bersyukur Pelepasku kar'na ku t'lah ditebus
 <br>
 <br>
 
-3.
-<br>
+2.
 Nama Yesus t'rus bersinar atas laut dan darat.
 <br>
 Penghiburan tersedia muliakanlah namaNya
@@ -39,7 +37,6 @@ ku bersyukur Pelepasku kar'na ku t'lah ditebus
 <br>
 <br>
 3.
-<br>
 Nama Yesus t'rus bersinar tak'kan pudar cahayanya 
 <br>
 Nama Yesus t'rangi jiwa meski g'lap sekalipun 
