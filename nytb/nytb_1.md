@@ -11,7 +11,7 @@ Nama itu memb'ri Rakhmat atas orang berdosa
 S'kaliannya t'lah dipanggil dan dipimpin padaNya 
 <br>
 <br>
-**KOOR:** 
+KOOR: 
 <br>
 Sangat indah nama Yesus kasihNya bakar kalbu
 <br>
@@ -29,7 +29,7 @@ Lenyaplah segala susah di depan nama itu.
 Kar'na cinta nama Yesus kalah dosa dan jahat.
 <br>
 <br>
-**KOOR:**
+KOOR:
 <br>
 Sangat indah nama Yesus kasihNya bakar kalbu 
 <br>
@@ -47,7 +47,7 @@ Walau dunia nanti musnah kelamlah matahari,
 Nama Yesus terus bersuara abadi tak berhenti
 <br>
 <br>
-**KOOR:**
+KOOR:
 <br>
 Sangat indah nama Yesus kasihNya bakar kalbu 
 <br>
