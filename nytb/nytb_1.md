@@ -1,5 +1,5 @@
 
-#### NYTB NO. 1 - NAMA YESUS TERUS BERSUARA
+#### **NYTB NO. 1 - NAMA YESUS TERUS BERSUARA**
 
 1.
 Nama Yesus t'rus bersuara abadi tak berhenti 
