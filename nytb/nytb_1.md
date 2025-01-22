@@ -12,13 +12,14 @@ S'kaliannya t'lah dipanggil dan dipimpin padaNya
 <br>
 <br>
 **KOOR:** 
-
-Sangat indah nama Yesus kasihNya bakar kalbu 
-
+<br>
+Sangat indah nama Yesus kasihNya bakar kalbu
+<br>
 ku bersyukur Pelepasku kar'na ku t'lah ditebus
-___
+<br>
+<br>
 
-2.
+3.
 
 Nama Yesus t'rus bersinar atas laut dan darat.
 
