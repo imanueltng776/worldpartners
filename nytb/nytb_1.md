@@ -36,6 +36,7 @@ Sangat indah nama Yesus kasihNya bakar kalbu
 ku bersyukur Pelepasku kar'na ku t'lah ditebus
 <br>
 <br>
+
 3.
 Nama Yesus t'rus bersinar tak'kan pudar cahayanya 
 <br>
