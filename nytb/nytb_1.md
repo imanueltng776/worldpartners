@@ -3,14 +3,14 @@
 
 1.
 Nama Yesus t'rus bersuara abadi tak berhenti 
-
+<br>
 Nama Yesus beri sentosa sukacita tak terp'ri
-
+<br>
 Nama itu memb'ri Rakhmat atas orang berdosa 
-
+<br>
 S'kaliannya t'lah dipanggil dan dipimpin padaNya 
-
-
+<br>
+<br>
 **KOOR:** 
 
 Sangat indah nama Yesus kasihNya bakar kalbu 
