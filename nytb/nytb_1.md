@@ -51,3 +51,11 @@ Sangat indah nama Yesus kasihNya bakar kalbu
 
 ku bersyukur Pelepasku kar'na ku t'lah ditebus
 ___
+
+
+**KOOR:**
+
+Sangat indah nama Yesus kasihNya bakar kalbu 
+
+ku bersyukur Pelepasku kar'na ku t'lah ditebus
+___
