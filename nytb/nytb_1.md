@@ -10,7 +10,9 @@ Nama itu memb'ri Rakhmat atas orang berdosa
 
 S'kaliannya t'lah dipanggil dan dipimpin padaNya
 
+
 KOOR: 
+
 Sangat indah nama Yesus kasihNya bakar kalbu
 
 ku bersyukur Pelepasku kar'na ku t'lah ditebus
