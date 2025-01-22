@@ -2,13 +2,17 @@
 #### **NYTB NO. 1 - NAMA YESUS TERUS BERSUARA**
 
 1.
-Nama Yesus t'rus bersuara abadi tak berhenti <br>
-Nama Yesus beri sentosa sukacita tak terp'ri <br>
-Nama itu memb'ri Rakhmat atas orang berdosa <br>
-S'kaliannya t'lah dipanggil dan dipimpin padaNya <br> <br>
+Nama Yesus t'rus bersuara abadi tak berhenti
+
+Nama Yesus beri sentosa sukacita tak terp'ri
+
+Nama itu memb'ri Rakhmat atas orang berdosa
+
+S'kaliannya t'lah dipanggil dan dipimpin padaNya
 
 KOOR: 
 Sangat indah nama Yesus kasihNya bakar kalbu <br>
+
 ku bersyukur Pelepasku kar'na ku t'lah ditebus
 
 
