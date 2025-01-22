@@ -2,8 +2,7 @@
 #### **NYTB NO. 1 - NAMA YESUS TERUS BERSUARA**
 
 1.
-Nama Yesus t'rus bersuara abadi tak berhenti 
-
+Nama Yesus t'rus bersuara abadi tak berhenti <br>
 Nama Yesus beri sentosa sukacita tak terp'ri
 
 Nama itu memb'ri Rakhmat atas orang berdosa 
