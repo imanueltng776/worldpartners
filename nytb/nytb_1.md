@@ -11,7 +11,7 @@ Sangat indah nama Yesus kasihNya bakar kalbu
 ku bersyukur Pelepasku kar'na ku t'lah ditebus
 
 
-3.
+2.
 Nama Yesus t'rus bersinar atas laut dan darat.
 Penghiburan tersedia muliakanlah namaNya
 Lenyaplah segala susah di depan nama itu.
@@ -22,7 +22,7 @@ Sangat indah nama Yesus kasihNya bakar kalbu
 ku bersyukur Pelepasku kar'na ku t'lah ditebus
 
 
-4.
+3.
 Nama Yesus t'rus bersinar tak'kan pudar cahayanya 
 Nama Yesus t'rangi jiwa meski g'lap sekalipun 
 Walau dunia nanti musnah kelamlah matahari, 
