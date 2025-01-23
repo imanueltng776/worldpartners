@@ -1,5 +1,3 @@
-#### WORLD PARTNERS  DISCIPLESHIP  CENTER(WPDC)
-
 ##### *Apakah anda dipanggil Allah untuk menjadi missionaris lintas budaya ke suku-suku terabaikan?*
 
 World Partners Discipleship Center atau disingkat WPDC (juga dikenal dengan Mission Discipleship Center - MDC) adalah salah satu program World Partners yang bertujuan untuk melatih, membekali dan memperlengkapi para hamba Tuhan yang mendapat panggilan khusus dari Tuhan untuk pergi memberkati bangsa-bangsa khususnya suku-suku terabaikan di seluruh dunia. 
