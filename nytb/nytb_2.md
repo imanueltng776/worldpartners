@@ -1,4 +1,4 @@
-NYTB NO. 2 - LAKSAR KRISTUS MAJULAH
+NYTB NO. 2 - LASKAR KRISTUS MAJULAH
 
 1.
 Pandanglah ladang-Nya t'lah kuning 
