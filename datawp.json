@@ -224,7 +224,7 @@
             "data": [
                 {
                     "id": 0,
-                    "title": "The Great Comission is not an option to be considered; it is a command to be obeyed",
+                    "title": "Amanat Agung bukanlah suatu pilihan untuk didiskusikan, melainkan suatu perintah untuk ditaati",
                     "subtitle": [
                         "1932-1905"
                     ],
@@ -234,6 +234,44 @@
                     "datePublished": "_",
                     "datemodified": "",
                     "author": "Hudson Taylor",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+                        "alinea 1",
+                        "alinea 2"
+                    ]
+                },
+				    {
+                    "id": 0,
+                    "title": "Hanya satu kehidupan, yang akan segera berlalu, Hanya apa yang dilakukan untuk Kristus yang akan bertahan.",
+                    "subtitle": [
+                        "1860-1931"
+                    ],
+                    "image": [
+                        "https://iili.io/2DMfAJe.jpg"
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "C.T Studd",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+                        "alinea 1",
+                        "alinea 2"
+                    ]
+                },
+				 {
+                    "id": 0,
+                    "title": "Adalah tugas seluruh gereja untuk memberitakan seluruh Injil ke seluruh dunia.",
+                    "subtitle": [
+                        "1834-1892"
+                    ],
+                    "image": [
+                        "https://timeintheword.org/wp-content/uploads/2021/04/spurgeon_inchair-2.jpg"
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "Charles H. Spurgeon",
                     "link": "",
                     "bookmarked": true,
                     "content": [
