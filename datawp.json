@@ -611,21 +611,128 @@
             "data": [
                 {
                     "id": 0,
-                    "title": "Judul Video",
+                    "title": "Injil untuk semua bangsa",
                     "subtitle": [
                         ""
                     ],
                     "image": [
-                        "https://images.pexels.com/photos/357514/pexels-photo-357514.jpeg?_gl=1*1iewt5n*_ga*MzY4NDI3OTQzLjE3NTEwMDEyMjc.*_ga_8JE65Q40S6*czE3NTEwMDEyMjYkbzEkZzEkdDE3NTEwMDEzMDkkajUzJGwwJGgw"
+                        "https://images.pexels.com/photos/346885/pexels-photo-346885.jpeg"
                     ],
-                    "datePublished": "tanggal published",
+                    "datePublished": "",
                     "datemodified": "",
-                    "author": "Pembicara",
+                    "author": "Pdt. Dr. Pamuji",
                     "link": ";ink video",
                     "bookmarked": true,
                     "content": [
-                        "",
+                        "https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/renungan/injil_untuk_semua_bangsa.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "Janji Penyertaan Tuhan - Bagian 1",
+                    "subtitle": [
                         ""
+                    ],
+                    "image": [
+                        "https://images.pexels.com/photos/631986/pexels-photo-631986.jpeg"
+                    ],
+                    "datePublished": "",
+                    "datemodified": "",
+                    "author": "Pdt. Dr. Pamuji",
+                    "link": ";ink video",
+                    "bookmarked": true,
+                    "content": [
+                        "https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/renungan/janji_tuhan_1.md"
+                    ]
+                },
+					{
+                    "id": 0,
+                    "title": "Janji Penyertaan Tuhan - Bagian 2",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://images.pexels.com/photos/631986/pexels-photo-631986.jpeg"
+                    ],
+                    "datePublished": "",
+                    "datemodified": "",
+                    "author": "Pdt. Dr. Pamuji",
+                    "link": ";ink video",
+                    "bookmarked": true,
+                    "content": [
+                        "https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/renungan/janji_tuhan_2.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "Janji Penyertaan Tuhan - Bagian 3",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://images.pexels.com/photos/631986/pexels-photo-631986.jpeg"
+                    ],
+                    "datePublished": "",
+                    "datemodified": "",
+                    "author": "Pdt. Dr. Pamuji",
+                    "link": ";ink video",
+                    "bookmarked": true,
+                    "content": [
+                        "https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/renungan/janji_tuhan_3.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "Memberitakan Keselamatan kepada Semua Bangsa",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://images.pexels.com/photos/1174136/pexels-photo-1174136.jpeg"
+                    ],
+                    "datePublished": "",
+                    "datemodified": "",
+                    "author": "Pdt. Dr. Pamuji",
+                    "link": ";ink video",
+                    "bookmarked": true,
+                    "content": [
+                        "https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/renungan/keselamatan_semua_bangsa.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "Mengapa Harus Taat dan Setia?",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://images.pexels.com/photos/7467873/pexels-photo-7467873.jpeg"
+                    ],
+                    "datePublished": "",
+                    "datemodified": "",
+                    "author": "Pdt. Dr. Pamuji",
+                    "link": ";ink video",
+                    "bookmarked": true,
+                    "content": [
+                        "https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/renungan/taat_setia.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "Mengumpulkan umat Allah dari segala bangsa",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://images.pexels.com/photos/1666816/pexels-photo-1666816.jpeg"
+                    ],
+                    "datePublished": "",
+                    "datemodified": "",
+                    "author": "Pdt. Dr. Pamuji",
+                    "link": ";ink video",
+                    "bookmarked": true,
+                    "content": [
+                        "hhttps://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/renungan/umat_allah.md"
                     ]
                 }
             ]
