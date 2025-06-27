@@ -584,11 +584,11 @@
             ]
         },
         {
-            "category": "Member Care",
+            "category": "Divisi",
             "data": [
                 {
                     "id": 0,
-                    "title": "Judul Video",
+                    "title": "Divisi",
                     "subtitle": [
                         ""
                     ],
@@ -601,14 +601,13 @@
                     "link": ";ink video",
                     "bookmarked": true,
                     "content": [
-                        "",
-                        ""
+                        "https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/core/divisi.md"
                     ]
                 }
             ]
         },
         {
-            "category": "Youth & Student",
+            "category": "Renungan",
             "data": [
                 {
                     "id": 0,
@@ -617,7 +616,7 @@
                         ""
                     ],
                     "image": [
-                        ""
+                        "https://images.pexels.com/photos/357514/pexels-photo-357514.jpeg?_gl=1*1iewt5n*_ga*MzY4NDI3OTQzLjE3NTEwMDEyMjc.*_ga_8JE65Q40S6*czE3NTEwMDEyMjYkbzEkZzEkdDE3NTEwMDEzMDkkajUzJGwwJGgw"
                     ],
                     "datePublished": "tanggal published",
                     "datemodified": "",
