@@ -1258,23 +1258,40 @@
                         ""
                     ]
                 },
+				  {
+                    "id": 0,
+                    "title": "Memberitakan Keselamatan kepada Semua Bangsa",
+                    "subtitle": [
+                        "Renungan"
+                    ],
+                    "image": [
+                        "https://images.pexels.com/photos/1174136/pexels-photo-1174136.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                    ],
+                    "datePublished": "",
+                    "datemodified": "",
+                    "author": "Pdt. Dr. Pamuji",
+                    "link": ";ink video",
+                    "bookmarked": true,
+                    "content": [
+                        "https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/renungan/keselamatan_semua_bangsa.md"
+                    ]
+                },
                 {
-                    "id": 2,
-                    "title": "Apa itu Jendela 10/40",
+                    "id": 0,
+                    "title": "Mengenal Jendela 10/40: Kawasan Strategis untuk Misi Dunia",
                     "subtitle": [
                         "Artikel"
                     ],
                     "image": [
-                        "https://images.pexels.com/photos/335393/pexels-photo-335393.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                        "https://images.pexels.com/photos/1098515/pexels-photo-1098515.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                     ],
-                    "datePublished": "tanggal published",
+                    "datePublished": "22 Jan 2025",
                     "datemodified": "",
-                    "author": "Pembicara",
-                    "link": ";ink video",
+                    "author": "Admin",
+                    "link": "",
                     "bookmarked": true,
                     "content": [
-                        "",
-                        ""
+                        "https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/artikel/jendela1040.md"
                     ]
                 }
             ]
