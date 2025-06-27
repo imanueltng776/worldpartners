@@ -738,25 +738,25 @@
             ]
         },
         {
-            "category": "Mission Kids",
+            "category": "Peran",
             "data": [
                 {
                     "id": 0,
-                    "title": "Judul Video",
+                    "title": "Peran Anda",
                     "subtitle": [
                         ""
                     ],
                     "image": [
-                        ""
+                        "https://images.pexels.com/photos/327540/pexels-photo-327540.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+						"https://iili.io/FAgbUdv.png"
                     ],
-                    "datePublished": "tanggal published",
+                    "datePublished": "Silahkan isi formulir Peran",
                     "datemodified": "",
                     "author": "Pembicara",
                     "link": ";ink video",
                     "bookmarked": true,
                     "content": [
-                        "",
-                        ""
+                        "https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/core/peran.md"
                     ]
                 }
             ]
@@ -1104,7 +1104,7 @@
                     "link": "Link Form",
                     "bookmarked": true,
                     "content": [
-                        "https://form.jotform.com/250188481180053"
+                        "https://docs.google.com/forms/d/e/1FAIpQLSc8WekhTSLn3FcKKPRByLVBC1g8sXzYwqUN7ygMvlDH4CfttQ/viewform?usp=header"
                     ]
                 }
             ]
