@@ -1,3 +1,5 @@
+BANGKIT G'REJA TUHAN SEKARANG 
+
 Bangkit g’reja Tuhan sekarang 
 Maju dalam kuasa Roh Kudus 
 Kemenangan t’lah diberikan kuasa dosa dipatahkan
