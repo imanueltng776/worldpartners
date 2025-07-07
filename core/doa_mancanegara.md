@@ -1,0 +1,4 @@
+- Doakan kepemimpinan Presiden Prabowo dan Wakil Presiden Gibran dalam memimpin Indonesia dan doakan agar Tuhan memulihkan perekonomian Indonesia agar kembali stabil ditengah perekonomian dunia yang menurun
+- Doakan konflik Israel dan Iran, saat ini dalam masa gencatan senjata, doakan orang percaya yang terdampak perang ini agar semakin diteguhkan iman mereka dan dapat menjadi saksi dan agar ada jalan damai untuk menyelesaikan perang ini, dan WN Indonesia yang dievakuasi keluar dari Iran agar Tuhan menolong
+- Doaakan Kondisi Banjir di Ambon dan beberapa tempat
+- Doakan perekonomian akibat imbas perang dagang Amerika dengan China, doakan langkah pemerintah Indonesia dalam menguatkan perekonomian dan mengantisipasi ancaman PHK.
