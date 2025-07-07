@@ -1,4 +1,4 @@
-HEAR THE SOUND
+WE SPEAK TO NATIONS
 
 Hear the sound
 The sound of the nations calling 
