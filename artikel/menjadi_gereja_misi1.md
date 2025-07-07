@@ -1,4 +1,4 @@
-WP1 - Menjadi Gereja Misioner-1
+MENJADI GEREJA MISIONER - 1
 
 Gereja misioner, satu kata yang mudah diucapkan. 
 
