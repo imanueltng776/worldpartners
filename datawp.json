@@ -1294,6 +1294,47 @@
                     ]
                 }
             ]
-        }
+        },
+		  {
+            "category": "Doa Misi",
+            "data": [
+                {
+                    "id": 0,
+                    "title": "Doa WP",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://images.pexels.com/photos/41949/earth-earth-at-night-night-lights-41949.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                    ],
+                    "datePublished": "tanggal published",
+                    "datemodified": "Form Pendaftaran",
+                    "author": "Contact person",
+                    "link": "https://form.jotform.com/250220567800044",
+                    "bookmarked": true,
+                    "content": [
+                        "https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/core/doa_wp.md"
+                    ]
+                },
+				 {
+                    "id": 0,
+                    "title": "Indonesia & Mancanegara",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://images.pexels.com/photos/346885/pexels-photo-346885.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                    ],
+                    "datePublished": "tanggal published",
+                    "datemodified": "Form Pendaftaran",
+                    "author": "Contact person",
+                    "link": "https://form.jotform.com/250220567800044",
+                    "bookmarked": true,
+                    "content": [
+                        "https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/core/doa_mancanegara.md"
+                    ]
+                }
+            ]
+        },
     ]
 }
