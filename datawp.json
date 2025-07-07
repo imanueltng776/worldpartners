@@ -284,6 +284,979 @@
         {
             "category": "Lagu Misi",
             "data": [
+			{
+                    "id": 0,
+                    "title": "BANGKIT G’REJA TUHAN",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/bangkit_greja.md"
+                    ]
+                },
+			{
+                    "id": 0,
+                    "title": "BANGSA-BANGSA BAGI KEMULIAAN-MU",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/bangsa_bangsa_bagi_kemuliaanmu.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "BAGI KEMULIAANMU",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/bagi_kemuliaanmu.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "BAPA PULIHKAN",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/bapa_pulihkan.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "BERIKAN PADA KAMI",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/berikan_pada_kami.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "B’RIKANKU HATI",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/brikanku_hati.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "BRI PUJI",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/bri_puji.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "B’RITAKANLAH INJIL-NYA",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/britakan_injilnya.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "B’RITAKANLAH INJIL-NYA",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/sgala_bangsa_memuji.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "ALLAHKU DAHSYAT",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/allahku_dahsyat.md"
+                    ]
+                },
+			{
+                    "id": 0,
+                    "title": "DATANGLAH KERAJAAN-MU ",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/datangla_kerajaanmu.md"
+                    ]
+                },
+			{
+                    "id": 0,
+                    "title": "DOA KAMI",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/doa_kami.md"
+                    ]
+                },
+			{
+                    "id": 0,
+                    "title": "DIBERKATI UNTUK MENJADI BERKAT - TEMA KAIROS",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/diberkati_untuk_menjadi_berkat_wp.md"
+                    ]
+                },
+			{
+                    "id": 0,
+                    "title": "DIBERKATI UNTUK MENJADI BERKAT - KA WORSHIP",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/diberkati_untuk_menjadi_berkat_praise.md"
+                    ]
+                },
+			{
+                    "id": 0,
+                    "title": "NYTB 283 - DI GOLGOTA",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/nytb_283_digolgota.md"
+                    ]
+                },
+			{
+                    "id": 0,
+                    "title": "DARI S'GALA SUKU",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/dari_sgala_suku.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "DENGARKANLAH SUARA NAFIRI",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/dengarkanla_suara_nafiri.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "HOW GREAT IS OUR GOD",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/how_great_isourgod.md"
+                    ]
+                },
+			{
+                    "id": 0,
+                    "title": "HALELUYA BAGI ANAK DOMBA",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/haleluya_bagi_anak_domba.md"
+                    ]
+                },
+			{
+                    "id": 0,
+                    "title": "HATIKU RINDUKU",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/hatiku_rinduku.md"
+                    ]
+                },
+			{
+                    "id": 0,
+                    "title": "HATIMU ADA DI S’GALA SUKU BANGSA",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/hatimu_ada_disgala_sukubangsa.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "TUHAN INILAH HIDUPKU",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/tuhan_inilah_hidupku.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "INI AKU UTUSLAH AKU",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/ini_aku_utuslah_aku.md"
+                    ]
+                },
+			
+				{
+                    "id": 0,
+                    "title": "NYTB 257 - INJIL MASIH BERKUMANDANG",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/nytb_257_Injilmasihberkumandang.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "JADIKAN KAMI SATU",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/jadikan_kamisatu.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "JANGAN LELAH",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/janganlelah.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "KABARKANLAH INJIL",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/kabarkanlah_injil.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "KAMI BERKUMPUL TUHAN",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/kami_berkumpul_tuhan.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "KUPUNYA VISI ‘TUK BANGSA-BANGSA",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/kupunya_visi.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "KERINDUANKU S’LALU BERADA - INI AKU UTUSLAH TUHAN",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/ini_aku_utuslah_tuhan.md"
+                    ]
+                },
+			{
+                    "id": 0,
+                    "title": "KAU TELAH MEMILIHKU",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/kau_telah_memilihku.md"
+                    ]
+                },
+			{
+                    "id": 0,
+                    "title": "KITA DIPILIH",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/kita_dipilih.md"
+                    ]
+                },
+			{
+                    "id": 0,
+                    "title": "KITA DIPILIH DAN DIKUDUSKAN",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/kita_dipilih_dan_dikuduskan.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "TINGGIKAN DIRIMU",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/tinggikan_dirimu.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "JADIKANKU RUMAH DOA-MU",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/jadikanku_rumahdoa.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "KU B’RI KEMULIAAN ",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/kubri_kemuliaan.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "LAPANGKANLAH TEMPAT KEMAHMU",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/lapangkanlah_tempat_kemahmu.md"
+                    ]
+                },
+			{
+                    "id": 0,
+                    "title": "LAYAKLAH SEGALA BANGSA",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/layaklah_segalabangsa.md"
+                    ]
+                },
+			{
+                    "id": 0,
+                    "title": "M’REKA PERLUKAN",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/mereka_perlukan.md"
+                    ]
+                },
+			{
+                    "id": 0,
+                    "title": "MARANATHA, TUHAN DATANGLAH",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/maranatha_tuhandatanglah.md"
+                    ]
+                },
+			{
+                    "id": 0,
+                    "title": "MARI KITA SEMUA UMAT PILIHAN ALLAH",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/mari_kitasemua.md"
+                    ]
+                },
+			{
+                    "id": 0,
+                    "title": "MARI PUJI TUHAN",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/mari_puji_tuhan.md"
+                    ]
+                },
+			{
+                    "id": 0,
+                    "title": "PAKAILAH AKU TUHAN",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/pakailah_aku_tuhan.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "S’BAB TUHAN MAHA BESAR",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/sbab_tuhan_mahabesar.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "SAATNYA TELAH TIBA",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/saatnya_tlahtiba.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "SEMUA KAR’NA ANUGERAH-NYA",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/smua_karna_anugrahnya.md"
+                    ]
+                },
+			{
+                    "id": 0,
+                    "title": "SETIA SAMPAI AKHIR",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/setia_sampai_akhir.md"
+                    ]
+                },
+			{
+                    "id": 0,
+                    "title": "S’GALA BANGSA MEMUJI",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/sgala_bangsa_memuji.md"
+                    ]
+                },
+			{
+                    "id": 0,
+                    "title": "SUKACITA PENUAIAN",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/sukacita_penuaian.md"
+                    ]
+                },
+			{
+                    "id": 0,
+                    "title": "TANDA-TANDA T’LAH NYATA",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/tanda_tanda.md"
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "TEBARKAN JALA",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/tebarkan_jala.md"
+                    ]
+                },
+			{
+                    "id": 0,
+                    "title": "TELAH KULIHAT BUKTI KASIHMU",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/telah_kulihat_buktikasihmu.md"
+                    ]
+                },
+			{
+                    "id": 0,
+                    "title": "WE SPEAK TO NATIONS",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/hear_thesound.md"
+                    ]
+                },
+				   {
+                    "id": 0,
+                    "title": "NYTB NO. 255 - BANGSA-BANGSA MENANTIKAN INJIL",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        ""
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "pencipta lagu",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+					"https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/nytb/nytb_255_bangsa_bangsa_menantikan.md"
+                    ]
+                },
                 {
                     "id": 0,
                     "title": "NYTB NO. 1 - NAMA YESUS TERUS BERSUARA",
