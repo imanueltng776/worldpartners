@@ -1371,6 +1371,272 @@
         {
             "category": "Video Misi",
             "data": [
+			 {
+                    "id": 0,
+                    "title": "Missionary Story - George Muller",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://img.youtube.com/vi/27ZKxKo1r48/maxresdefault.jpg"
+                    ],
+                    "datePublished": "tanggal published",
+                    "datemodified": "",
+                    "author": "Pembicara",
+                    "link": "27ZKxKo1r48",
+                    "bookmarked": true,
+                    "content": [
+                        "",
+                        ""
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "Missionary Story - Gladys Aylward",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://img.youtube.com/vi/rHJNgy2ckx4/maxresdefault.jpg"
+                    ],
+                    "datePublished": "tanggal published",
+                    "datemodified": "",
+                    "author": "Pembicara",
+                    "link": "rHJNgy2ckx4",
+                    "bookmarked": true,
+                    "content": [
+                        "",
+                        ""
+                    ]
+                },
+					{
+                    "id": 0,
+                    "title": "Jurnal Misi - ZOOM IN: Mission - UNIT 4 Misi 10 Besar",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://img.youtube.com/vi/zFkQpfCNopY/maxresdefault.jpg"
+                    ],
+                    "datePublished": "tanggal published",
+                    "datemodified": "",
+                    "author": "Pembicara",
+                    "link": "zFkQpfCNopY",
+                    "bookmarked": true,
+                    "content": [
+                        "",
+                        ""
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "Jurnal Misi - ZOOM IN: Mission - UNIT 3 Status Penginjilan Dunia",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://img.youtube.com/vi/i3R07HgK148/maxresdefault.jpg"
+                    ],
+                    "datePublished": "tanggal published",
+                    "datemodified": "",
+                    "author": "Pembicara",
+                    "link": "i3R07HgK148",
+                    "bookmarked": true,
+                    "content": [
+                        "",
+                        ""
+                    ]
+                },
+					{
+                    "id": 0,
+                    "title": "Jurnal Misi - ZOOM IN: Mission - UNIT 1 Tinjauan Suku Terabaikan 1 | Mission Infographics",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://img.youtube.com/vi/TjjpoMcKR4o/maxresdefault.jpg"
+                    ],
+                    "datePublished": "tanggal published",
+                    "datemodified": "",
+                    "author": "Pembicara",
+                    "link": "TjjpoMcKR4o",
+                    "bookmarked": true,
+                    "content": [
+                        "",
+                        ""
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "Khotbah Misi - Personal Growth of Church Members - Pdt. Pamuji | Mission Sermon 1",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://img.youtube.com/vi/SS5dm-_IXqQ/maxresdefault.jpg"
+                    ],
+                    "datePublished": "tanggal published",
+                    "datemodified": "",
+                    "author": "Pembicara",
+                    "link": "SS5dm-_IXqQ",
+                    "bookmarked": true,
+                    "content": [
+                        "",
+                        ""
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "Mandat Untuk Memengaruhi Dunia - Paradigma TUJUH",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://img.youtube.com/vi/GS8o-H5s_ik/maxresdefault.jpg"
+                    ],
+                    "datePublished": "tanggal published",
+                    "datemodified": "",
+                    "author": "Pembicara",
+                    "link": "GS8o-H5s_ik",
+                    "bookmarked": true,
+                    "content": [
+                        "",
+                        ""
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "Mandat Untuk Memengaruhi Dunia - Paradigma ENAM",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://img.youtube.com/vi/rKf_M6m9ISY/maxresdefault.jpg"
+                    ],
+                    "datePublished": "tanggal published",
+                    "datemodified": "",
+                    "author": "Pembicara",
+                    "link": "rKf_M6m9ISY",
+                    "bookmarked": true,
+                    "content": [
+                        "",
+                        ""
+                    ]
+                },
+					{
+                    "id": 0,
+                    "title": "Mandat Untuk Memengaruhi Dunia - Paradigma LIMA",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://img.youtube.com/vi/iC-2cIG6cJA/maxresdefault.jpg"
+                    ],
+                    "datePublished": "tanggal published",
+                    "datemodified": "",
+                    "author": "Pembicara",
+                    "link": "iC-2cIG6cJA",
+                    "bookmarked": true,
+                    "content": [
+                        "",
+                        ""
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "Mandat Untuk Memengaruhi Dunia - Paradigma EMPAT",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://img.youtube.com/vi/Y_eFUmhZY4U/maxresdefault.jpg"
+                    ],
+                    "datePublished": "tanggal published",
+                    "datemodified": "",
+                    "author": "Pembicara",
+                    "link": "Y_eFUmhZY4U",
+                    "bookmarked": true,
+                    "content": [
+                        "",
+                        ""
+                    ]
+                },
+					{
+                    "id": 0,
+                    "title": "Mandat Untuk Memengaruhi Dunia - Paradigma TIGA",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://img.youtube.com/vi/kLbk-PncwDU/maxresdefault.jpg"
+                    ],
+                    "datePublished": "tanggal published",
+                    "datemodified": "",
+                    "author": "Pembicara",
+                    "link": "kLbk-PncwDU",
+                    "bookmarked": true,
+                    "content": [
+                        "",
+                        ""
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "Mandat Untuk Memengaruhi Dunia - Paradigma DUA",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://img.youtube.com/vi/5usaWEzAEqk/maxresdefault.jpg"
+                    ],
+                    "datePublished": "tanggal published",
+                    "datemodified": "",
+                    "author": "Pembicara",
+                    "link": "5usaWEzAEqk",
+                    "bookmarked": true,
+                    "content": [
+                        "",
+                        ""
+                    ]
+                },
+				{
+                    "id": 0,
+                    "title": "Mandat Untuk Memengaruhi Dunia - Paradigma SATU",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://img.youtube.com/vi/dHOhWGN_1rA/maxresdefault.jpg"
+                    ],
+                    "datePublished": "tanggal published",
+                    "datemodified": "",
+                    "author": "Pembicara",
+                    "link": "dHOhWGN_1rA",
+                    "bookmarked": true,
+                    "content": [
+                        "",
+                        ""
+                    ]
+                },
+					{
+                    "id": 0,
+                    "title": "Mandat Untuk Memengaruhi Dunia - Pengantar",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://img.youtube.com/vi/IG2ssHnZHzs/maxresdefault.jpg"
+                    ],
+                    "datePublished": "tanggal published",
+                    "datemodified": "",
+                    "author": "Pembicara",
+                    "link": "IG2ssHnZHzs",
+                    "bookmarked": true,
+                    "content": [
+                        "",
+                        ""
+                    ]
+                },
                 {
                     "id": 0,
                     "title": "Melihat Alkitab dengan Perspektif Allah | Pdt. Pamuji - Mission Awareness Part 1",
@@ -1868,6 +2134,82 @@
                         ""
                     ]
                 },
+				  {
+                    "id": 4,
+                    "title": "Mission Core 6 | Apakah Alokasi Dana Misi Beban Tambahan bagi Gereja? PART 1",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://img.youtube.com/vi/d41NDug6kYs/maxresdefault.jpg"
+                    ],
+                    "datePublished": "tanggal published",
+                    "datemodified": "",
+                    "author": "Pembicara",
+                    "link": "d41NDug6kYs",
+                    "bookmarked": true,
+                    "content": [
+                        "",
+                        ""
+                    ]
+                },
+				  {
+                    "id": 4,
+                    "title": "Mission Core 7 | Apakah Alokasi Dana Misi Beban Tambahan bagi Gereja? PART 2",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://img.youtube.com/vi/CS9BW2yeexY/maxresdefault.jpg"
+                    ],
+                    "datePublished": "tanggal published",
+                    "datemodified": "",
+                    "author": "Pembicara",
+                    "link": "CS9BW2yeexY",
+                    "bookmarked": true,
+                    "content": [
+                        "",
+                        ""
+                    ]
+                },
+					  {
+                    "id": 4,
+                    "title": "Mission Core 8 | Apakah Alokasi Dana Misi Beban Tambahan bagi Gereja? PART 3",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://img.youtube.com/vi/_hL3j5CMZFU/maxresdefault.jpg"
+                    ],
+                    "datePublished": "tanggal published",
+                    "datemodified": "",
+                    "author": "Pembicara",
+                    "link": "_hL3j5CMZFU",
+                    "bookmarked": true,
+                    "content": [
+                        "",
+                        ""
+                    ]
+                },
+				  {
+                    "id": 4,
+                    "title": "Mission Core 9 | Apakah Alokasi Dana Misi Beban Tambahan bagi Gereja? PART 4",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://img.youtube.com/vi/amzXrd_0hAc/maxresdefault.jpg"
+                    ],
+                    "datePublished": "tanggal published",
+                    "datemodified": "",
+                    "author": "Pembicara",
+                    "link": "amzXrd_0hAc",
+                    "bookmarked": true,
+                    "content": [
+                        "",
+                        ""
+                    ]
+                },
                 {
                     "id": 5,
                     "title": "Part 3 - Menjadi Gereja Misionaner",
@@ -1881,6 +2223,101 @@
                     "datemodified": "",
                     "author": "Pembicara",
                     "link": "cltAnoGURhc",
+                    "bookmarked": true,
+                    "content": [
+                        "",
+                        ""
+                    ]
+                },
+				  {
+                    "id": 5,
+                    "title": "Part 4 - Menjadi Gereja Misionaner",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://img.youtube.com/vi/1yYE72lfLTs/maxresdefault.jpg"
+                    ],
+                    "datePublished": "tanggal published",
+                    "datemodified": "",
+                    "author": "Pembicara",
+                    "link": "1yYE72lfLTs",
+                    "bookmarked": true,
+                    "content": [
+                        "",
+                        ""
+                    ]
+                },
+				  {
+                    "id": 5,
+                    "title": "Part 5 - Menjadi Gereja Misionaner",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://img.youtube.com/vi/tSz4Ig39Wfw/maxresdefault.jpg"
+                    ],
+                    "datePublished": "tanggal published",
+                    "datemodified": "",
+                    "author": "Pembicara",
+                    "link": "tSz4Ig39Wfw",
+                    "bookmarked": true,
+                    "content": [
+                        "",
+                        ""
+                    ]
+                },
+				  {
+                    "id": 5,
+                    "title": "Part 6 - Menjadi Gereja Misionaner",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://img.youtube.com/vi/3IukbL3CzeA/maxresdefault.jpg"
+                    ],
+                    "datePublished": "tanggal published",
+                    "datemodified": "",
+                    "author": "Pembicara",
+                    "link": "3IukbL3CzeA",
+                    "bookmarked": true,
+                    "content": [
+                        "",
+                        ""
+                    ]
+                },
+				 {
+                    "id": 5,
+                    "title": "Part 7 - Menjadi Gereja Misionaner",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://img.youtube.com/vi/xDqV4NVngls/maxresdefault.jpg"
+                    ],
+                    "datePublished": "tanggal published",
+                    "datemodified": "",
+                    "author": "Pembicara",
+                    "link": "xDqV4NVngls",
+                    "bookmarked": true,
+                    "content": [
+                        "",
+                        ""
+                    ]
+                },
+				 {
+                    "id": 5,
+                    "title": "Part 8 - Menjadi Gereja Misionaner",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://img.youtube.com/vi/M2yavaGQ7iY/maxresdefault.jpg"
+                    ],
+                    "datePublished": "tanggal published",
+                    "datemodified": "",
+                    "author": "Pembicara",
+                    "link": "M2yavaGQ7iY",
                     "bookmarked": true,
                     "content": [
                         "",
@@ -2228,6 +2665,24 @@
                         "alinea 2"
                     ]
                 },
+				 {
+                    "id": 0,
+                    "title": "Menjadi Gereja Misioner - 1",
+                    "subtitle": [
+                        "Renungan"
+                    ],
+                    "image": [
+                        "https://images.pexels.com/photos/1098515/pexels-photo-1098515.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                    ],
+                    "datePublished": "22 Jan 2025",
+                    "datemodified": "",
+                    "author": "Admin",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+                        "https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/artikel/menjadi_gereja_misi1.md"
+                    ]
+                },
                 {
                     "id": 0,
                     "title": "Great Mobilization | Pdt. Pamuji - Mission Awareness Part 22",
@@ -2241,6 +2696,25 @@
                     "datemodified": "",
                     "author": "Pembicara",
                     "link": "4rWSy-W0xss",
+                    "bookmarked": true,
+                    "content": [
+                        "",
+                        ""
+                    ]
+                },
+				 {
+                    "id": 0,
+                    "title": "Missionary Story - George Muller",
+                    "subtitle": [
+                        "Video"
+                    ],
+                    "image": [
+                        "https://img.youtube.com/vi/27ZKxKo1r48/maxresdefault.jpg"
+                    ],
+                    "datePublished": "tanggal published",
+                    "datemodified": "",
+                    "author": "Pembicara",
+                    "link": "27ZKxKo1r48",
                     "bookmarked": true,
                     "content": [
                         "",
