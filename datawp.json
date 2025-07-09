@@ -181,22 +181,22 @@
         {
             "category": "Artikel",
             "data": [
-			   {
+			  {
                     "id": 0,
-                    "title": "Menjadi Gereja Misioner - 1",
+                    "title": "Menjadi Gereja Misioner - 3",
                     "subtitle": [
                         ""
                     ],
                     "image": [
-                        "https://images.pexels.com/photos/1098515/pexels-photo-1098515.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                        "https://images.pexels.com/photos/335393/pexels-photo-335393.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                     ],
                     "datePublished": "22 Jan 2025",
                     "datemodified": "",
-                    "author": "Admin",
+                    "author": "Pdt. Dr. Pamuji",
                     "link": "",
                     "bookmarked": true,
                     "content": [
-                        "https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/artikel/menjadi_gereja_misi1.md"
+                        "https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/artikel/menjadi_gereja_misi3.md"
                     ]
                 },
 			     {
@@ -210,11 +210,29 @@
                     ],
                     "datePublished": "22 Jan 2025",
                     "datemodified": "",
-                    "author": "Admin",
+                    "author": "Pdt. Dr. Pamuji",
                     "link": "",
                     "bookmarked": true,
                     "content": [
                         "https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/artikel/menjadi_gereja_misi2.md"
+                    ]
+                },
+			   {
+                    "id": 0,
+                    "title": "Menjadi Gereja Misioner - 1",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://images.pexels.com/photos/1098515/pexels-photo-1098515.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                    ],
+                    "datePublished": "22 Jan 2025",
+                    "datemodified": "",
+                    "author": "Pdt. Dr. Pamuji",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+                        "https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/artikel/menjadi_gereja_misi1.md"
                     ]
                 },
                 {
@@ -2608,6 +2626,42 @@
         {
             "category": "lainnya",
             "data": [
+			  {
+                    "id": 0,
+                    "title": "Menjadi Gereja Misioner - 3",
+                    "subtitle": [
+                        "Artikel"
+                    ],
+                    "image": [
+                        "https://images.pexels.com/photos/335393/pexels-photo-335393.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                    ],
+                    "datePublished": "22 Jan 2025",
+                    "datemodified": "",
+                    "author": "Pdt. Dr. Pamuji",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+                        "https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/artikel/menjadi_gereja_misi3.md"
+                    ]
+                },
+				     {
+                    "id": 0,
+                    "title": "Menjadi Gereja Misioner - 2",
+                    "subtitle": [
+                        "Artikel"
+                    ],
+                    "image": [
+                        "https://images.pexels.com/photos/335393/pexels-photo-335393.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                    ],
+                    "datePublished": "22 Jan 2025",
+                    "datemodified": "",
+                    "author": "Pdt. Dr. Pamuji",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+                        "https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/artikel/menjadi_gereja_misi2.md"
+                    ]
+                },
                {
                     "id": 0,
                     "title": "Apa tema utama Alkitab?",
