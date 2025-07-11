@@ -294,6 +294,44 @@
         {
             "category": "Daily Quotes",
             "data": [
+			      {
+                    "id": 0,
+                    "title": "Menjadi milik Yesus berarti merangkul bangsa-bangsa bersama-Nya.",
+                    "subtitle": [
+                        "1946"
+                    ],
+                    "image": [
+                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHJ3glgHXirXMmH54xTbPJr8QpyEJGpsaYlQ&s"
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "John Piper",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+                        "alinea 1",
+                        "alinea 2"
+                    ]
+                },
+			      {
+                    "id": 0,
+                    "title": "Kita berbicara tentang kedatangan Tuhan yang Kedua; namun separuh dunia bahkan belum pernah mendengar tentang kedatangan-Nya yang Pertama",
+                    "subtitle": [
+                        "1889-1986"
+                    ],
+                    "image": [
+                        "https://www.tyndale.ca/sites/default/files/styles/square_400up/public/alumni/2024-09/1968%20Dr.%20Oswald%20J.%20Smith-min.jpg"
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "Oswald J. Smith",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+                        "alinea 1",
+                        "alinea 2"
+                    ]
+                },
                 {
                     "id": 0,
                     "title": "Amanat Agung bukanlah suatu pilihan untuk didiskusikan, melainkan suatu perintah untuk ditaati",
