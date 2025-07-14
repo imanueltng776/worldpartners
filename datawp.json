@@ -181,6 +181,24 @@
         {
             "category": "Artikel",
             "data": [
+			{
+                    "id": 0,
+                    "title": "Frontier Mission: Misi Terakhir untuk Menjangkau yang Belum Pernah Mendengar",
+                    "subtitle": [
+                        ""
+                    ],
+                    "image": [
+                        "https://images.pexels.com/photos/1679618/pexels-photo-1679618.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                    ],
+                    "datePublished": "11 Juli 2025",
+                    "datemodified": "",
+                    "author": "Admin",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+                        "https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/artikel/frontier.md"
+                    ]
+                },
 				  {
                     "id": 0,
                     "title": "Apa itu Suku Terabaikan (STA)?",
@@ -2663,6 +2681,24 @@
         {
             "category": "lainnya",
             "data": [
+					{
+                    "id": 0,
+                    "title": "Frontier Mission: Misi Terakhir untuk Menjangkau yang Belum Pernah Mendengar",
+                    "subtitle": [
+                        "Artikel"
+                    ],
+                    "image": [
+                        "https://images.pexels.com/photos/1679618/pexels-photo-1679618.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                    ],
+                    "datePublished": "11 Juli 2025",
+                    "datemodified": "",
+                    "author": "Admin",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+                        "https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/artikel/frontier.md"
+                    ]
+                },
 			  {
                     "id": 0,
                     "title": "Apa itu Suku Terabaikan (STA)?",
