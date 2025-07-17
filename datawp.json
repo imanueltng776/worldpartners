@@ -312,6 +312,82 @@
         {
             "category": "Daily Quotes",
             "data": [
+			   {
+                    "id": 0,
+                    "title": "Cara Anda menyimpan harta di surga adalah dengan berinvestasi untuk membawa orang ke sana",
+                    "subtitle": [
+                        "1954"
+                    ],
+                    "image": [
+                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDi5e_FesoXY4CQ9gnM2ld98u6HVxvTmKNRQ&s"
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "Rick Warren",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+                        "alinea 1",
+                        "alinea 2"
+                    ]
+                },
+			   {
+                    "id": 0,
+                    "title": "Anda memiliki satu bisnis di bumi yakni untuk menyelamatkan jiwa-jiwa",
+                    "subtitle": [
+                        "1703-1791"
+                    ],
+                    "image": [
+                        "https://revival-library.org//wp-content/uploads/2023/03/wesley_john_colour.jpg"
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "John Wesley",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+                        "alinea 1",
+                        "alinea 2"
+                    ]
+                },
+			   {
+                    "id": 0,
+                    "title": "Orang Kristen tidak taat kecuali dia melakukan semua yang dia bisa untuk memberitakan Injil kepada dunia yang belum mengenal Allah.",
+                    "subtitle": [
+                        "1843-1919"
+                    ],
+                    "image": [
+                        "https://www.gbipasko.com/pages/wp-content/uploads/2015/08/ABSimpson.jpg"
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "A.B. Simpson",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+                        "alinea 1",
+                        "alinea 2"
+                    ]
+                },
+			      {
+                    "id": 0,
+                    "title": "Harapkanlah perkara-perakara besar dari Tuhan; usahakanlah perkara-perkara besar bagi Tuhan.",
+                    "subtitle": [
+                        "1761-1834"
+                    ],
+                    "image": [
+                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0dHUxBEG5JWoearMHo9D0fnN6-7NidLRbfw&s"
+                    ],
+                    "datePublished": "_",
+                    "datemodified": "",
+                    "author": "William Carey",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+                        "alinea 1",
+                        "alinea 2"
+                    ]
+                },
 			      {
                     "id": 0,
                     "title": "Menjadi milik Yesus berarti merangkul bangsa-bangsa bersama-Nya.",
