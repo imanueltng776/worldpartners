@@ -2658,6 +2658,25 @@
         {
             "category": "Beranda",
             "data": [
+			  {
+                    "id": 0,
+                    "title": "Persekutuan Doa Misi MHB",
+                    "subtitle": [
+                        "Jangan lewatkan persekuatuan doa MHB Kamis Malam, pukul 19.00 WIB"
+                    ],
+                    "image": [
+                        "https://forwardinchrist.net/wp-content/uploads/2022/04/Prayer_EditorialMay2022.jpg"
+                    ],
+                    "datePublished": "Lihat selengkapnya..",
+                    "datemodified": "",
+                    "author": "",
+                    "link": "",
+                    "bookmarked": true,
+                    "content": [
+                        "https://raw.githubusercontent.com/imanueltng776/worldpartners/refs/heads/artikel/informasi/mhb.md"
+                        
+                    ]
+                },
                 {
                     "id": 0,
                     "title": "Mission Conference VI",
